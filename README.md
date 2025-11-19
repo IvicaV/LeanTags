@@ -40,6 +40,42 @@ Your data belongs to you. LeanTabs stores all your sessions and links **locally 
 
 ---
 
+## 💡 Real-World Use Cases
+
+Not sure how LeanTabs fits into your workflow? Here are 5 scenarios based on its actual features:
+
+### 1. The "Context Switcher" (Project Management) 🔀
+You are working on "Project A" in one window/workspace but need to switch to "Project B" immediately.
+*   **The Problem:** You don't want to lose your 15 open tabs for Project A, but you need the RAM for Project B.
+*   **The LeanTabs Fix:** Set the scope to *"Current Window / Workspace"* and hit **Clean**.
+*   **The Result:** Your current project is saved as a timestamped session (e.g., "Workspace 1 - 14:30"). You can now work on Project B in a fresh browser. Later, simply click **Restore Session** to bring Project A back exactly where it was.
+
+### 2. The "Performance Booster" (Gaming & Editing) ⚡
+You need maximum PC performance for a video call, a game, or video editing software, but your browser is eating 4GB of RAM.
+*   **The Problem:** Closing the browser means losing your setup. Keeping it open slows down your PC.
+*   **The LeanTabs Fix:** Click **Clean**. LeanTabs closes *all* tabs but intelligently keeps the **last 3 active tabs** open (customizable setting).
+*   **The Result:** Your memory is freed up instantly, but you are not completely kicked out of your browsing flow.
+
+### 3. The "Research Curator" (Active Collecting) 📝
+You are researching a topic (e.g., "New Laptop") and collecting links from various sources over several days.
+*   **The Problem:** Bookmarks are too permanent; keeping tabs open is too messy.
+*   **The LeanTabs Fix:** Create a session (or use an existing one) and use the **"Add Link"** input field. Paste raw URLs from YouTube or Amazon.
+*   **The Result:** LeanTabs automatically fetches the **page titles** for you. You get a clean, readable list of resources that you can edit, categorize, and restore all at once when you are ready to buy.
+
+### 4. The "Device Migrator" (Work vs. Home) 💾
+You finished your research at work and want to continue exactly where you left off on your home laptop.
+*   **The Problem:** Syncing tabs via browser accounts often syncs *everything* or nothing specific.
+*   **The LeanTabs Fix:** Go to Settings -> **Export All Data**. Save the JSON file to your cloud storage or USB stick. At home, click **Import Data**.
+*   **The Result:** Your exact session history and saved links appear on your home machine, ready to be restored.
+
+### 5. The "Monday Morning" Setup (Weekend Peace) 🧘
+It's Friday afternoon. You have 3 different windows open with unfinished tasks, but you want to shut down your computer for the weekend.
+*   **The Problem:** The anxiety of "Will I remember what I was doing?" makes you hesitate to close the browser.
+*   **The LeanTabs Fix:** Run a global Clean. Go to the dashboard and **rename** the session to "To Do Monday".
+*   **The Result:** You close the browser with zero guilt. On Monday, you see one clear session labeled "To Do Monday". If you had "Restore Window Structure" enabled, it even re-opens the tabs in their original window arrangement.
+
+---
+
 ## 👥 Who is LeanTabs for?
 
 *   **Developers, Designers & Researchers:** Stay focused by keeping only the relevant window or **Opera Workspace** active.
@@ -67,5 +103,16 @@ If you want to inspect the code or test the latest features before the official 
 ---
 
 ### Take back control now and experience a clean, fast, and organized browser. Install LeanTabs! 🚀
+
+
+
+
+
+
+
+
+
+
+
 
 
