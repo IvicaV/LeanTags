@@ -21,7 +21,7 @@ LeanTabs runs 100% offline. Your data is stored locally on your device. No track
 
 **Who is LeanTabs for?**
 
-*   **Developers, Designers & Researchers:** Stay focused by keeping only the relevant workspace active.
+*   **Developers, Designers & Researchers:** Stay focused by keeping only the relevant window / workspace active.
 *   **Students & Knowledge Workers:** Automatically archive your research sessions and access them later.
 *   **Anyone suffering from "tab-itis":** Free your browser and your mind from digital clutter.
 
