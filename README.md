@@ -11,6 +11,8 @@ LeanTabs is the smart solution that transforms your browser back into a producti
 
 It is more than just a tab closer — it's your personal tab management assistant. Unlike simple "tab suspenders," LeanTabs intelligently closes old tabs but saves them instantly into a beautiful, searchable dashboard. Designed for power users who demand efficiency without ever losing an important link.
 
+✨ Special Highlight: Unlike generic cleaners, LeanTabs features native support for Opera Workspaces, ensuring your separate workflows remain isolated and safe.
+
 ---
 
 ### ⚡ How it works in 3 seconds:
@@ -22,8 +24,10 @@ It is more than just a tab closer — it's your personal tab management assistan
 
 ## 🚀 Why LeanTabs is the right choice for you
 
-### 🎯 Focus on One Project at a Time
-Clean up just your **current window or workspace** while leaving your other projects untouched. Need a full reset? You can also clean up all windows globally. You are in control!
+### 🎯 True Multi-Tasking (Window & Workspace Aware)
+LeanTabs is smart. It distinguishes between different **Windows** (Chrome/Edge) and **Opera Workspaces**.
+*   **Respects Your Setup:** Whether you separate "Work" and "Private" by windows or workspaces, LeanTabs recognizes these boundaries. Cleaning your active project will never close tabs in your background projects.
+*   **Scope Selection:** You decide the reach of the cleanup. Choose to close tabs only in your current active view to save memory immediately, or run a browser-wide cleanup to reset all your open sessions at once.
 
 ### 🧹 One-Click "Tab Clean"
 One click in the popup is all it takes. LeanTabs closes all unnecessary tabs instantly. The last few active tabs (customizable, e.g., 3) stay open so you can keep working without interruption.
