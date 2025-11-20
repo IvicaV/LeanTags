@@ -13,6 +13,13 @@ It is more than just a tab closer — it's your personal tab management assistan
 
 ---
 
+### ⚡ How it works in 3 seconds:
+1. **Click "Clean"** 🧹 → **Instant Zen.** Clutter vanishes, RAM is freed, and your browser speeds up immediately.
+2. **Tabs are Saved** 💾 → **Zero Stress.** Your tabs are auto-saved into a neat, searchable session. Nothing is ever lost.
+3. **Restore Later** ↩️ → **Resume Flow.** Bring back an entire workspace setup or just pick the links you need—exactly when you need them.
+
+---
+
 ## 🚀 Why LeanTabs is the right choice for you
 
 ### 🎯 Focus on One Project at a Time
@@ -25,10 +32,18 @@ One click in the popup is all it takes. LeanTabs closes all unnecessary tabs ins
 Every tab closed **by LeanTabs** is automatically saved into a dated and named **"Session"**. You can access your old research and link collections at any time via the dashboard.
 
 ### 🗂️ Powerful Session Manager
-Open the "Saved Links" page to manage your sessions. Rename them, restore entire sessions with a single click, open individual links, or delete what you no longer need.
+Open the "Saved Links" page to manage your sessions. Organize your history with **collapsible lists**, rename sessions to give them context, restore entire sessions with a single click, open individual links, or delete what you no longer need.
 
 ### ➕ Research Assistant
 You can also add links manually to your sessions! Paste a URL, and LeanTabs **automatically fetches the page title** for you (e.g., converting a YouTube link into the video title).
+
+### 🏷️ Smart Auto-Categorization
+Chaos is the enemy. LeanTabs **automatically detects the source** of every link (e.g., "YouTube", "GitHub", "Amazon") and applies a clean category tag. Want custom organization? You can rename any category tag manually to fit your project needs (e.g., change "Google Docs" to "Thesis Sources").
+
+### 🔍 Instant Search & Filtering
+Stop scrolling through endless history lists. LeanTabs turns your saved tabs into a searchable database.
+*   **Live Search:** Find any link by title or URL instantly.
+*   **Smart Filters:** Drill down by **Category** (e.g., "Show me only YouTube videos") or filter by **Origin Window** to find exactly what you need in seconds.
 
 ### 🪟 Smart Restore
 Restores your tabs exactly how you left them – respecting your **original window structure**. If a session had tabs from two different windows, LeanTabs can reopen them in two new windows.
@@ -65,7 +80,7 @@ You need maximum PC performance for a video call, a game, or video editing softw
 You are researching a topic (e.g., "New Laptop") and collecting links from various sources over several days.
 *   **The Problem:** Bookmarks are too permanent; keeping tabs open is too messy.
 *   **The LeanTabs Fix:** Create a session (or use an existing one) and use the **"Add Link"** input field. Paste raw URLs from YouTube or Amazon.
-*   **The Result:** LeanTabs automatically fetches the **page titles** for you. You get a clean, readable list of resources that you can edit, categorize, and restore all at once when you are ready to buy.
+*   **The Result:** LeanTabs automatically fetches the page titles for you and auto-tags the source. You get a clean, categorized list of resources that you can edit and restore all at once when you are ready to buy.
 
 ### 4. The "Device Migrator" (Work vs. Home) 💾
 You finished your research at work and want to continue exactly where you left off on your home laptop.
