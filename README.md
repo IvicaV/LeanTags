@@ -25,7 +25,7 @@ Every closed tab is automatically saved into a dated and named **"Session"**. Yo
 Open the "Saved Links" page to manage your sessions. Rename them, restore entire sessions with a single click, open individual links, or delete what you no longer need.
 
 ### ➕ Research Assistant
-Add links manually to your sessions! Paste a URL, and LeanTabs **automatically fetches the page title** for you (e.g., converting a YouTube link into the video title).
+You can also add links manually to your sessions! Paste a URL, and LeanTabs **automatically fetches the page title** for you (e.g., converting a YouTube link into the video title).
 
 ### 🪟 Smart Restore
 Restores your tabs exactly how you left them – respecting your **original window structure**. If a session had tabs from two different windows, LeanTabs can reopen them in two new windows.
