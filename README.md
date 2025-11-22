@@ -31,7 +31,7 @@ LeanTabs is the smart solution that transforms your browser back into a producti
 
 It is more than just a tab closer — it's your personal tab management assistant. Unlike simple "tab suspenders," LeanTabs intelligently closes old tabs but saves them instantly into a beautiful, searchable dashboard. Designed for power users who demand efficiency without ever losing an important link.
 
-✨ Special Highlight: Unlike generic cleaners, LeanTabs features native support for **Opera Workspaces**, ensuring your separate workflows remain isolated and safe.
+✨ Special Highlight for Opera users: Unlike generic cleaners, LeanTabs features native support for **Opera Workspaces**, ensuring your separate workflows remain isolated and safe.
 
 ---
 
